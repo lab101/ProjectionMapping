@@ -3,6 +3,8 @@
 #include "ofMain.h"
 #include "ofGraphics.h"
 #include "ball.h"
+#define True true
+#define False false
 
 class quad
 {
